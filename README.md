@@ -8,8 +8,6 @@ Welcome to the Mobile Working Time Display App! This application is designed to 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Download](#download)
 
 ## Introduction
